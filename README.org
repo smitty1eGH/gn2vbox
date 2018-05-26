@@ -4,6 +4,11 @@
 
   It is a 100% derivitave work based upon the [[https://wiki.gentoo.org/wiki/Handbook:Main_Page][Gentoo Handbook]].
 
+  The goal is to produce a minimial, hardened, 64-bit only AMD64 system with as little typing as possible.
+
 * index of wiki pages  
 
-  [[][Setup]]
+| Page        | Description        |
+|-------------+--------------------|
+| [[https://github.com/smitty1eGH/gn2vbox/wiki/Ingredients][Ingredients]] | Necessary packages |
+|             |                    |
